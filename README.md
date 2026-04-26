@@ -8,4 +8,4 @@
   
   Our Pipeline requires the nflreadpy python package to be installed before running the model pipeline. The full pipeline can be found here: https://github.com/zhan9921-afk/Big-Data-and-AI-Trend-Project/blob/main/complete_modeling_pipeline.ipynb
 
-  The final dataset from used for our pipeline can be found here: https://github.com/zhan9921-afk/Big-Data-and-AI-Trend-Project/blob/main/complete_final_data.csv
+  The final dataset used for our pipeline can be found here: https://github.com/zhan9921-afk/Big-Data-and-AI-Trend-Project/blob/main/complete_final_data.csv
