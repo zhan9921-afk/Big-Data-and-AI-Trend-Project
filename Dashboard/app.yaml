@@ -1,0 +1,4 @@
+command:
+  - streamlit
+  - run
+  - gridironiq_dashboard_v17_recent_games_fixed.py
