@@ -10,6 +10,6 @@ The individual components for our interactive dashboard can be found here: https
   
   Our Pipeline requires the nflreadpy python package to be installed before running the model pipeline. The full pipeline can be found here: https://github.com/zhan9921-afk/Big-Data-and-AI-Trend-Project/blob/main/complete_modeling_pipeline.ipynb
 
-  Our Pipeline is comprised of 12 models, 3 for each position group, for next contract years, guarenteed money and annual salary for each position group. The individual models can be found here: https://github.com/zhan9921-afk/Big-Data-and-AI-Trend-Project/tree/main/Dashboard/models
+  Our Pipeline is comprised of 12 models, 3 for each position group, to predict next contract length, guarenteed money and annual salary. The individual models can be found here: https://github.com/zhan9921-afk/Big-Data-and-AI-Trend-Project/tree/main/Dashboard/models
 
   The final dataset used for our pipeline can be found here: https://github.com/zhan9921-afk/Big-Data-and-AI-Trend-Project/blob/main/complete_final_data.csv
