@@ -1,4 +1,4 @@
-The code with all the feature engineering from start to end, hyperparameter tuning, model evaluation, final model fitting, and model saaving is in the "complete_modeling_pipeline.ipynb" file. Our processes can be replicated identically by using this file and running it from top to bottom. Some intermediary datasets get saved throughout.
+The code with all the feature engineering from start to end, hyperparameter tuning, model evaluation, final model fitting, and model saving is in the "complete_modeling_pipeline.ipynb" file. Our processes can be replicated identically by using this file and running it from top to bottom. Some intermediary datasets get saved throughout.
 
 The individual models (one each for QB, RB, WR, TE for each of APY, year and guaranteed) are in the "final_saved_models" folder for quick retrieval. Also included is all the features needed for prediction.
 
