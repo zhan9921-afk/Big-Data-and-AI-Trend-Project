@@ -1,0 +1,5 @@
+The code with all the feature engineering from start to end, hyperparameter tuning, model evaluation, final model fitting, and model saaving is in the "complete_modeling_pipeline.ipynb" file. Our processes can be replicated identically by using this file and running it from top to bottom. Some intermediary datasets get saved throughout.
+
+The individual models (one each for QB, RB, WR, TE for each of APY, year and guaranteed) are in the "final_saved_models" folder for quick retrieval. Also included is all the features needed for prediction.
+
+The "Dashboard" folder includes all the files and data sources needed for the dashboard to function. We did NOT include the AI API key for security reasons. The file "gridironiq_dashboard_v17_recent_games_fixed.py" is the file to run to access the streamlit dashboard. All the other .py and .csv files get referenced properly. The "models" folder also has all 12 models and the features needed for the "Contract Predictor" tab in the dashboard. It is set up to work properly without any additional steps in this current format.
